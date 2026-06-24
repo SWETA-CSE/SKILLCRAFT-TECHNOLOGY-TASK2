@@ -96,7 +96,6 @@ The logo works beautifully across multiple formats:
 
 - **Canva** - Main design platform for logo creation and branding
 - **Freepik** - Icons, illustrations, and design elements
-- **Adobe Suite** (Optional) - For refinements and high-resolution variations
 
 #### 💡 Key Learnings
 
