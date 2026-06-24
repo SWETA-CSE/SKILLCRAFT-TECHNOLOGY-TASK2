@@ -11,7 +11,7 @@ For this task, I developed a **logo and basic brand identity** for **Homefolk** 
 The idea was to create something that feels warm, simple, and connected to home. I used a house outline to represent comfort and belonging, while the leaf element reflects nature, sustainability, and the eco-conscious values of the brand.
 
 #### 🎨 Brand Logo Preview
-file_000000008eb47207b725d0888f2adbcb.png
+![Homefolk Brand Logo](file_000000008eb47207b725d0888f2adbcb.png)
 
 
 The design showcases:
