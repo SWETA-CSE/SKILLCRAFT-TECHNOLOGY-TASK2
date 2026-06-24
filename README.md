@@ -12,7 +12,7 @@ The idea was to create something that feels warm, simple, and connected to home.
 
 #### 🎨 Brand Logo Preview
 
-![Homefolk Logo Design - Complete Brand Identity System](https://github.com/SWETA-CSE/SKILLCRAFT-TECHNOLOGY-TASK2/blob/main/README.md#)
+![Homefolk Logo Design - Complete Brand Identity System](./homefolk-brand-design.jpg)
 
 **High-Resolution Logo & Complete Branding Presentation:**
 
