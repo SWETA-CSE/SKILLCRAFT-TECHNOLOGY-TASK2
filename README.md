@@ -11,6 +11,7 @@ For this task, I developed a **logo and basic brand identity** for **Homefolk** 
 The idea was to create something that feels warm, simple, and connected to home. I used a house outline to represent comfort and belonging, while the leaf element reflects nature, sustainability, and the eco-conscious values of the brand.
 
 #### 🎨 Brand Logo Preview
+https://github.com/SWETA-CSE/SKILLCRAFT-TECHNOLOGY-TASK2/commit/0e13e8e80761fff92c17f1e5bcc8d4617eda8fd5#diff-1d88fdf84001f8ce086b947e37a208c0a249a1aa036e9cfbff90326059bb7353
 
 
 The design showcases:
