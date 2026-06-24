@@ -12,18 +12,43 @@ The idea was to create something that feels warm, simple, and connected to home.
 
 #### 🎨 Brand Logo Preview
 
-![Homefolk Logo Design](https://imgur.com/a/your-image-id)
+![Homefolk Logo Design - Complete Brand Identity System](https://github.com/SWETA-CSE/SKILLCRAFT-TECHNOLOGY-TASK2/blob/main/README.md#)
 
-**High-Resolution Logo & Branding Presentation:**
-![Homefolk Brand Identity - Complete Design System](https://imgur.com/image1)
+**High-Resolution Logo & Complete Branding Presentation:**
 
-For full branding guidelines and design process, view the complete presentation showing:
-- Logo Design Process (6 Steps)
-- Brand Summary & Tagline
-- Color Palette with Hex Codes
-- Typography Guidelines
-- Logo Icon Variations
-- Real-world Applications & Mockups
+The design showcases:
+- **Main Logo Variations** - Primary design with house icon and leaf motif
+- **Embossed/Metallic Version** - Premium brand presentation
+- **Circular Badge Design** - Versatile badge application
+- **Real-World Mockups** - Product packaging and signage applications
+
+#### 📊 Logo Design Process (6 Steps)
+
+1. **Brand Understanding** 
+   - Homefolk as a sustainable, handmade home décor lifestyle brand
+   - Focus on natural, eco-conscious, and mindful living products
+
+2. **Concept Development**
+   - Explored themes of home, nature, warmth, and togetherness
+   - Combined house outline with leaf element as core symbols
+
+3. **Logo Idea**
+   - Minimal house outline representing 'home' and safety
+   - Leaf adds touch of nature and sustainability
+   - Handwritten-style typography for personal, friendly feel
+
+4. **Colour Selection**
+   - Earthy greens reflect nature and growth
+   - Warm brown adds handmade and comforting touch
+   - Beige and cream keep it soft and natural
+
+5. **Typography**
+   - Handwritten-style font for brand warmth and approachability
+   - Clean sans-serif for tagline readability and clarity
+
+6. **Final Outcome**
+   - Simple, memorable, and versatile logo
+   - Works across packaging, social media, website and print
 
 #### 🎯 Brand Identity Elements
 
@@ -37,62 +62,62 @@ For full branding guidelines and design process, view the complete presentation 
 *"Made for slow, mindful living."*
 
 **Typography:**
-- Handwritten-style fonts for a personal, approachable feel
-- Clean, modern sans-serif for readability and balance
-- Creates an authentic, artisanal aesthetic
+- **Brand Name Font**: Handwritten-style (Friendly)
+- **Tagline Font**: Clean & Readable (Sans-serif)
+- Creates an authentic, artisanal, approachable aesthetic
 
 #### 🎨 Design Rationale
 
-**Design Process (6 Steps):**
-
-1. **Brand Understanding** - Homefolk as a sustainable, handmade home décor lifestyle brand
-2. **Concept Development** - Exploring themes of home, nature, warmth, and togetherness
-3. **Logo Idea** - Minimal house outline + leaf for nature/sustainability symbolism
-4. **Colour Selection** - Earthy greens, warm brown, and cream for natural appeal
-5. **Typography** - Handwritten style for warmth + clean sans-serif for readability
-6. **Final Outcome** - Versatile logo working across packaging, social media, and print
-
 **Key Design Decisions:**
-- **House Icon**: Represents comfort, belonging, and home
-- **Leaf Element**: Symbolizes sustainability, nature, and eco-consciousness
-- **Organic Shapes**: Convey handmade and natural elements
-- **Warm Tones**: Evoke feelings of warmth and welcomeness
-- **Handwritten Typography**: Creates personal and friendly brand voice
+- **House Icon**: Represents comfort, belonging, safety, and home sanctuary
+- **Leaf Element**: Symbolizes sustainability, nature, eco-consciousness, and growth
+- **Organic Shapes**: Convey handmade, natural, and authentic elements
+- **Warm Tones**: Evoke feelings of warmth, welcome, and coziness
+- **Handwritten Typography**: Creates personal, friendly, and human brand voice
 
 **Design Goals:**
 - ✨ Create a memorable and distinctive brand identity
 - ✨ Communicate the brand's values of sustainability and mindfulness
 - ✨ Develop a cohesive visual language across all touchpoints
-- ✨ Make the brand feel approachable and authentic
+- ✨ Make the brand feel approachable, warm, and authentic
 
 #### 📱 Brand Applications
 
 The logo works beautifully across multiple formats:
-- 📦 Product Packaging
-- 🏷️ Gift Tags & Labels
-- 🪟 Storefront Signage
-- 📱 Social Media
-- 🌐 Website & Digital
-- 📄 Print Materials
+- 📦 **Product Packaging** - Boxes, bags, wrapping
+- 🏷️ **Gift Tags & Labels** - Product labels and tags
+- 🪟 **Storefront Signage** - Shop windows and signs
+- 📱 **Social Media** - Instagram, Pinterest, Facebook
+- 🌐 **Website & Digital** - Web presence and digital marketing
+- 📄 **Print Materials** - Brochures, flyers, business cards
+- 🏠 **Interior Applications** - Wall signs, merchandise displays
 
 #### 🛠️ Tools Used
 
-- **Canva** - Main design platform for logo creation
-- **Freepik** - Icons and design elements
-- **Adobe** (Optional) - For refinements and variations
+- **Canva** - Main design platform for logo creation and branding
+- **Freepik** - Icons, illustrations, and design elements
+- **Adobe Suite** (Optional) - For refinements and high-resolution variations
 
 #### 💡 Key Learnings
 
-This project helped me understand how every design choice works together:
+This project gave me valuable insights into brand design:
 - How **icon design and symbolism** communicate brand values effectively
-- The importance of **color psychology** in brand messaging and emotion
+- The importance of **color psychology** in brand messaging and emotional connection
 - How **typography choices** directly affect brand personality and perception
 - How to create **cohesive visual systems** that tell a compelling brand story
-- The value of **versatility** in logo design across different applications
+- The value of **versatility** in logo design across different applications and formats
+- Understanding **sustainability messaging** in modern branding
+
+#### 🏷️ Brand Values
+
+- **🌍 Sustainable** - Eco-conscious design and values
+- **❤️ Handmade** - Authentic, artisanal aesthetic
+- **🏡 Made for Home** - Comfort and belonging
+- **🧘 Mindful Living** - Intentional and purposeful approach
 
 #### 🏷️ Hashtags
 
-#GraphicDesign #LogoDesign #BrandIdentity #HomeDecor #SustainableDesign #Branding #CanvaDesign #DesignInternship #SkillCraftTechnology #CreativeJourney #MindfulLiving #HandmadeDesign
+#GraphicDesign #LogoDesign #BrandIdentity #HomeDecor #SustainableDesign #Branding #CanvaDesign #DesignInternship #SkillCraftTechnology #CreativeJourney #MindfulLiving #HandmadeDesign #BrandDesign #DesignThinking
 
 ---
 
