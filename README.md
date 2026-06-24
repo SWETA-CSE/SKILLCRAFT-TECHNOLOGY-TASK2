@@ -12,13 +12,6 @@ The idea was to create something that feels warm, simple, and connected to home.
 
 #### 🎨 Brand Logo Preview
 
-![Homefolk Logo Design - Complete Brand Identity System](./homefolk-brand-design.jpg)
-
----
-
-**High-Resolution Logo & Complete Branding Presentation:**
-
-📥 **[Download Full Brand Design (PDF)](https://adobeacrobat.app.link/Mhhs4GmNsxb)** - Click to view and download the complete high-resolution branding package
 
 The design showcases:
 - **Main Logo Variations** - Primary design with house icon and leaf motif
