@@ -8,13 +8,15 @@ Sharing my second task from my Graphic Design Internship at SkillCraft Technolog
 
 For this task, I developed a **logo and basic brand identity** for **Homefolk** — a home décor and lifestyle concept built around sustainable, handmade, and mindful living.
 
-The idea was to create something that feels warm, simple, and connected to home. I used a house outline to represent comfort and belonging, while the leaf element reflects nature, sustainability, and eco-conscious values.
+The idea was to create something that feels warm, simple, and connected to home. I used a house outline to represent comfort and belonging, while the leaf element reflects nature, sustainability, and the eco-conscious values of the brand.
 
 #### 🎨 Brand Logo Preview
 
 ![Homefolk Logo Design - Complete Brand Identity System](./homefolk-brand-design.jpg)
 
 **High-Resolution Logo & Complete Branding Presentation:**
+
+📥 **[Download Full Brand Design (PDF)](https://adobeacrobat.app.link/Mhhs4GmNsxb)** - Click to view and download the complete high-resolution branding package
 
 The design showcases:
 - **Main Logo Variations** - Primary design with house icon and leaf motif
@@ -117,7 +119,7 @@ This project gave me valuable insights into brand design:
 
 #### 🏷️ Hashtags
 
-#GraphicDesign #LogoDesign #BrandIdentity #HomeDecor #SustainableDesign #Branding #CanvaDesign #DesignInternship #SkillCraftTechnology #CreativeJourney #MindfulLiving #HandmadeDesign #BrandDesign #DesignThinking
+#GraphicDesign #LogoDesign #BrandIdentity #HomeDecor #SustainableDesign #Branding #CanvaDesign #DesignInternship #SkillCraftTechnology #CreativeJourney #MindfulLiving #HandmadeDesign #BrandDesign #DesignThinking #BrandStrategy
 
 ---
 
